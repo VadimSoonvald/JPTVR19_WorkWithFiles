@@ -1,0 +1,6 @@
+2020-10-31
+apple = 18.0 $
+banana = 9.0 $
+milk = 12.6 $
+lemon = 7.2 $
+pizza = 21.6 $

@@ -1,0 +1,5 @@
+apple = 10 $
+banana = 5 $
+milk = 7 $
+lemon = 4 $
+pizza = 12 $
